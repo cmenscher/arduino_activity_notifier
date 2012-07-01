@@ -35,7 +35,6 @@ unsigned char ssid_len;
 unsigned char security_passphrase_len;
 //---------------------------------------------------------------------------
 
-
 // Function that prints data from the server
 void printData(char* data, int len) {
   
